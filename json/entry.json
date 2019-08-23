@@ -1,0 +1,74 @@
+[
+  {
+    "title": "@tools:sample/first_names",
+    "desc": "@tools:sample/full_names",
+    "icon": "https://github.com/open9527/Images/blob/master/icon/animal/dog.png",
+    "avatars": "https://github.com/open9527/Images/blob/master/icon/animal/colorful/dog.png"
+  },
+  {
+    "title": "@tools:sample/first_names",
+    "desc": "@tools:sample/full_names",
+    "icon": "https://github.com/open9527/Images/blob/master/icon/animal/dragon.png",
+    "avatars": "https://github.com/open9527/Images/blob/master/icon/animal/colorful/dragon.png"
+  },
+  {
+    "title": "@tools:sample/first_names",
+    "desc": "@tools:sample/full_names",
+    "icon": "https://github.com/open9527/Images/blob/master/icon/animal/horse.png",
+    "avatars": "https://github.com/open9527/Images/blob/master/icon/animal/colorful/horse.png"
+  },
+  {
+    "title": "@tools:sample/first_names",
+    "desc": "@tools:sample/full_names",
+    "icon": "https://github.com/open9527/Images/blob/master/icon/animal/monkey.png",
+    "avatars": "https://github.com/open9527/Images/blob/master/icon/animal/colorful/monkey.png"
+  },
+  {
+    "title": "@tools:sample/first_names",
+    "desc": "@tools:sample/full_names",
+    "icon": "https://github.com/open9527/Images/blob/master/icon/animal/ox.png",
+    "avatars": "https://github.com/open9527/Images/blob/master/icon/animal/colorful/ox.png"
+  },
+  {
+    "title": "@tools:sample/first_names",
+    "desc": "@tools:sample/full_names",
+    "icon": "https://github.com/open9527/Images/blob/master/icon/animal/pig.png",
+    "avatars": "https://github.com/open9527/Images/blob/master/icon/animal/colorful/pig.png"
+  },
+  {
+    "title": "@tools:sample/first_names",
+    "desc": "@tools:sample/full_names",
+    "icon": "https://github.com/open9527/Images/blob/master/icon/animal/rabbit.png",
+    "avatars": "https://github.com/open9527/Images/blob/master/icon/animal/colorful/rabbit.png"
+  },
+  {
+    "title": "@tools:sample/first_names",
+    "desc": "@tools:sample/full_names",
+    "icon": "https://github.com/open9527/Images/blob/master/icon/animal/rat.png",
+    "avatars": "https://github.com/open9527/Images/blob/master/icon/animal/colorful/rat.png"
+  },
+  {
+    "title": "@tools:sample/first_names",
+    "desc": "@tools:sample/full_names",
+    "icon": "https://github.com/open9527/Images/blob/master/icon/animal/rooster.png",
+    "avatars": "https://github.com/open9527/Images/blob/master/icon/animal/colorful/rooster.png"
+  },
+  {
+    "title": "@tools:sample/first_names",
+    "desc": "@tools:sample/full_names",
+    "icon": "https://github.com/open9527/Images/blob/master/icon/animal/sheep.png",
+    "avatars": "https://github.com/open9527/Images/blob/master/icon/animal/colorful/sheep.png"
+  },
+  {
+    "title": "@tools:sample/first_names",
+    "desc": "@tools:sample/full_names",
+    "icon": "https://github.com/open9527/Images/blob/master/icon/animal/snake.png",
+    "avatars": "https://github.com/open9527/Images/blob/master/icon/animal/colorful/snake.png"
+  },
+  {
+    "title": "@tools:sample/first_names",
+    "desc": "@tools:sample/full_names",
+    "icon": "https://github.com/open9527/Images/blob/master/icon/animal/tiger.png",
+    "avatars": "https://github.com/open9527/Images/blob/master/icon/animal/colorful/tiger.png"
+  }
+]
