@@ -3,8 +3,8 @@
   "msg": "success",
   "data": [
     {
-      "title": "@tools:sample/first_names",
-      "desc": "@tools:sample/full_names",
+      "title": "dog",
+      "desc": "猫的图集",
       "icon": "https://github.com/open9527/Images/blob/master/icon/animal/dog.png",
       "avatars": "https://github.com/open9527/Images/blob/master/icon/animal/colorful/dog.png"
     },
