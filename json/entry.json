@@ -6,13 +6,15 @@
       "title": "dog",
       "desc": "猫的图集",
       "icon": "https://github.com/open9527/Images/blob/master/icon/animal/dog.png",
-      "avatars": "https://github.com/open9527/Images/blob/master/icon/animal/colorful/dog.png"
+      "avatars": "https://github.com/open9527/Images/blob/master/icon/animal/colorful/dog.png",
+      "clazz":"SamplesActivity.class"
     },
     {
       "title": "@tools:sample/first_names",
       "desc": "@tools:sample/full_names",
       "icon": "https://github.com/open9527/Images/blob/master/icon/animal/dragon.png",
-      "avatars": "https://github.com/open9527/Images/blob/master/icon/animal/colorful/dragon.png"
+      "avatars": "https://github.com/open9527/Images/blob/master/icon/animal/colorful/dragon.png",
+      "clazz":"AndroidToJsActivity.class"
     },
     {
       "title": "@tools:sample/first_names",
